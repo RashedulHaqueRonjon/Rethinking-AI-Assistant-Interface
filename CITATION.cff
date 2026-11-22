@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use or discuss this proposal, please cite it as below."
+title: "Rethinking the AI Assistant Interface and Interaction: From Capability Selection to Intent-Driven AI Orchestration"
+authors:
+  - name: "Ronjon"
+date-released: 2026-11-12
+license: CC-BY-4.0
+repository: "https://github.com/RashedulHaqueRonjon/rethinking-ai-assistant-interface"
+url: "https://github.com/RashedulHaqueRonjon/rethinking-ai-assistant-interface"
+abstract: "A proposal for a unified task-composition and AI-orchestration interface for AI assistants: describe the outcome, let the assistant determine the route, and keep the route understandable and controllable."
+keywords:
+  - AI assistant
+  - interaction design
+  - interface design
+  - AI orchestration
+  - human-centered AI
