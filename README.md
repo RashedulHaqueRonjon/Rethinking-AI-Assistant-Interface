@@ -66,7 +66,7 @@ Feedback, counter-examples, prototypes, corrections and translations are welcome
 
 ## How to cite
 
-Ronjon (2026). *Rethinking the AI Assistant Interface and Interaction: From Capability Selection to Intent-Driven AI Orchestration*. GitHub repository. See [CITATION.cff](CITATION.cff).
+Rashedul Haque Ronjon (2026). *Rethinking the AI Assistant Interface and Interaction: From Capability Selection to Intent-Driven AI Orchestration*. GitHub repository. See [CITATION.cff](CITATION.cff).
 
 ## License
 
@@ -74,7 +74,7 @@ Text and figures are licensed under CC BY 4.0. See [LICENSE](LICENSE).
 
 ## About
 
-**Authorship.** Concept, structure and direction: Ronjon.
+**Authorship.** Concept, structure and direction: Rashedul Haque Ronjon.
 
 **Origin.** The ideas grew out of hands-on use of AI assistant apps on Android and the web, and out of an iterative prompting dialogue with ChatGPT in October 2026, in which the author set out the concepts and corrected the drafts (see References). The examples in points 2, 5, 11, 13 and 16 come from observing ChatGPT’s Android and web apps. The proposal is meant to apply to any assistant.
 
