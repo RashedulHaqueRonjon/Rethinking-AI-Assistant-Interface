@@ -8,7 +8,7 @@
 
 > **Automate the workflow. Explain the workflow. Preserve meaningful user control.**
 
-📄 **[Read the PDF](rethinking-the-ai-assistant-interface.pdf)**  ·  📖 **[Read it online](docs/Rethinking-AI-Assistant-Interface.md)**  ·  💬 **[Give feedback](../../issues)**
+📄 **[Read the PDF](Rethinking-AI-Assistant-Interface.pdf)**  ·  📖 **[Read it online](docs/Rethinking-AI-Assistant-Interface.md)**  ·  💬 **[Give feedback](../../issues)**
 
 ## The idea in one minute
 
